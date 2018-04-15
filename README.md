@@ -2,6 +2,9 @@
 
 A nippy Serde for kafka
 
+[![Clojars Project](https://img.shields.io/clojars/v/bigsy/clj-nippy-serde.svg)](https://clojars.org/bigsy/clj-nippy-serde)
+
+
 ## Usage
 
 ```clojure
