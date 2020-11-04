@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.apache.kafka/kafka-clients "1.0.1" :exclusions [org.scala-lang/scala-library]]
                  [org.apache.kafka/kafka-streams "1.0.1"]
-                 [com.taoensso/nippy "2.14.0"]]
+                 [com.taoensso/nippy "2.15.0"]]
 
   :aot [clj-nippy-serde.serialization]
 
