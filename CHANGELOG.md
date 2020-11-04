@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
+## [0.1.2] - 2020-11-04
+### Security
+- Bump `com.taoensso/nippy` from `2.14.0` to `2.15.0` to fix
+[CVE-2020-24164](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-24164)
+
 ## [Unreleased]
 ### Changed
 - Add a new arity to `make-widget-async` to provide a different widget shape.
